@@ -1,0 +1,42 @@
+header {
+    background-color: rgb(56, 102, 65);
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: #A7C957;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+}
+
+
+
+header a {
+    text-decoration: none;
+    color:beige;
+    border: 3px solid #A7C957;
+    border-radius: 10px;
+}
+
+body img {
+    width: 30%;
+    height: 30%;
+    text-align: center;
+}
+
+
+header img {
+    width: 10%;
+    height: 10%;
+}
+
+h1, h2 {
+    color: beige;
+    text-align: center;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+}
